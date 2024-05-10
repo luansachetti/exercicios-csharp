@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seq08_consumo", "seq08_consumo\seq08_consumo.csproj", "{8D79DD99-82ED-4969-B0D5-466D3B45222F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D79DD99-82ED-4969-B0D5-466D3B45222F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D79DD99-82ED-4969-B0D5-466D3B45222F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D79DD99-82ED-4969-B0D5-466D3B45222F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D79DD99-82ED-4969-B0D5-466D3B45222F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A592D53-E7B7-4435-A872-4D0CB0EA1030}
+	EndGlobalSection
+EndGlobal

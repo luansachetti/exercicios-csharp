@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cond05_troco_verificado", "cond05_troco_verificado\cond05_troco_verificado.csproj", "{56DF8838-636C-4D42-97F3-0D79F932284C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56DF8838-636C-4D42-97F3-0D79F932284C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DF8838-636C-4D42-97F3-0D79F932284C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DF8838-636C-4D42-97F3-0D79F932284C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DF8838-636C-4D42-97F3-0D79F932284C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A7C8D9-149B-45A4-A46A-EE6B86B7B2B0}
+	EndGlobalSection
+EndGlobal
